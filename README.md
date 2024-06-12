@@ -9,7 +9,7 @@ Originally presented at NeurIPS 2022
 
 ## Access this tutorial
 
-We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies. <a target="_blank" href="ttps://colab.research.google.com/github/climatechange-ai-tutorials/lulc-semantic-segmentation/blob/main/Automating_the_creation_of_LULC_datasets_for_Semantic_Segmentation.ipynb">
+We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies. <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-semantic-segmentation/blob/main/Automating_the_creation_of_LULC_datasets_for_Semantic_Segmentation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
