@@ -42,7 +42,7 @@ Rohatgi, S. S., & Mucia, A. (2022). Automating the Creation of LULC Datasets for
   organization={Climate Change AI},
   type={Tutorial},
   doi={https://doi.org/10.5281/zenodo.11619139},
-  booktitle={NeurIPS 2022},
+  booktitle={Conference on Neural Information Processing Systems},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/lulc-semantic-segmentation}}
 }
 ```
