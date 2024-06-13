@@ -30,7 +30,7 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Rohatgi, S. S., & Mucia, A. (2022). Automating the Creation of LULC Datasets for Semantic Segmentation [Tutorial]. In NeurIPS 2022. Climate Change AI. https://doi.org/10.5281/zenodo.11619139
+Rohatgi, S. S., & Mucia, A. (2022). Automating the Creation of LULC Datasets for Semantic Segmentation [Tutorial]. In Conference on Neural Information Processing Systems. Climate Change AI. https://doi.org/10.5281/zenodo.11619139
 
 ### BibTeX
 
